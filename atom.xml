@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tank47cm.github.io</id>
     <title>Gridea</title>
-    <updated>2021-08-26T11:19:07.258Z</updated>
+    <updated>2021-08-26T15:12:20.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tank47cm.github.io"/>
     <link rel="self" href="https://tank47cm.github.io/atom.xml"/>
@@ -10,6 +10,17 @@
     <logo>https://tank47cm.github.io/images/avatar.png</logo>
     <icon>https://tank47cm.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[2021年8月26日]]></title>
+        <id>https://tank47cm.github.io/post/2021-nian-8-yue-26-ri/</id>
+        <link href="https://tank47cm.github.io/post/2021-nian-8-yue-26-ri/">
+        </link>
+        <updated>2021-08-26T14:52:08.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>真是千呼万唤始出来，得来全不费工夫呀。之前辛辛苦苦搞的Gridea一直没能成功地同步到GitHub.io上去，结果到了今天突发奇想同步了一下就成功了，真的让人有些无言。今天和妈妈一起看了二二六兵变这部日本电影，讲的是1936.2.26日那些时候日本发生的一场军事政变，最终以失败告终。在这之前是被贴吧的一张电影截图吸引过去的，图中的三浦友和饰演安藤，头上裹着头巾，上面写着尊皇讨奸四个大字。每次看到这种革命的场面总是让人心潮澎湃，这让我想到了贴吧的另一幅图，女人以为男人醒来最希望看到的是她的容颜，但其实是列宁在发动群众的革命场面。我想，这也许是更为崇高的一种理想吧，不是每个人都希望看到革命带来的动乱和不稳定，但是绝大多数人都希望能够为更高的理想做些什么。夜已深，多说无益，最后以一首昭和维新之歌送个大家吧，祝好梦！  
+这里太小了，昭和维新之歌又太长了，就不放了，感兴趣的自己百度即可。  
+![](https://tank47cm.github.io/post-images/1629990722299.jpg)</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[同步测试文章]]></title>
         <id>https://tank47cm.github.io/post/tong-bu-ce-shi-wen-zhang/</id>
